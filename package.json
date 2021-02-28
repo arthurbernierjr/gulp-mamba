@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Arthur Bernier Jr <ma2bernier@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "gulp-util": "^3.0.8",
     "mambascript": "^0.2.2",
